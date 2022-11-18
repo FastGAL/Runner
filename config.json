@@ -1,0 +1,65 @@
+{
+  "GameName": "FastGALTestGame",
+  "GameVersion": "1.0",
+  "company": "FastGAL Team",
+  "company-logo": {
+    "imagepath": "res/default.json",
+    "imageindex": "company-logo"
+  },
+  "game-window": {
+    "x": 1280,
+    "y": 720
+  },
+  "MainMenuLayoutInfo": {
+    "NewGameButton": {
+      "x": 100,
+      "y": 100,
+      "width": 80,
+      "height": 27,
+      "imagepath": "res/default.json",
+      "imageindex": "0"
+    },
+    "CountineButton": {
+      "x": 100,
+      "y": 200,
+      "width": 80,
+      "height": 27,
+      "imagepath": "res/default.json",
+      "imageindex": "1"
+    },
+    "SettingsButton": {
+      "x": 100,
+      "y": 300,
+      "width": 80,
+      "height": 27,
+      "imagepath": "res/default.json",
+      "imageindex": "2"
+    },
+    "ExitButton": {
+      "x": 100,
+      "y": 400,
+      "width": 80,
+      "height": 27,
+      "imagepath": "res/default.json",
+      "imageindex": "3"
+    },
+    "BackgroundImage": {
+      "imagepath": "res/default.json",
+      "imageindex": "4"
+    }
+  },
+  "InGameStyleInfo": {
+    "SelectButton": {
+      "imagepath": "res/default.json",
+      "imageindex": "5"
+    },
+    "ControlBar": {
+      "imagepath": "res/default.json",
+      "imageindex": "6"
+    },
+    "TextBox": {
+      "imagepath": "res/default.json",
+      "imageindex": "7"
+    }
+  }
+}

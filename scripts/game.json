@@ -1,0 +1,74 @@
+{
+  "game": {
+    "start": {
+      "imagepath": "res/default.json",
+      "imagelist": [
+        "company-logo",
+        "beforce-playing-warning"
+      ],
+      "delaylist": [
+        "0.02",
+        "0.02"
+      ],
+      "fulldelaylist": [
+        "0",
+        "5"
+      ],
+      "style": "fade-in-out"
+    },
+    "mainmenu": {
+      "entry_delay": "2"
+    },
+    "story": {
+      "CP0": {
+          "0": {
+          "type": "text",
+          "text": "....",
+          "imagepath": "res/default.json",
+          "imageindex": "story-pic0",
+          "voicepath": "res/default.json",
+          "voiceindex": "story-v0",
+          "autotime": "4"
+        },
+        "1": {
+          "type": "text",
+          "text": "这个叫SCP-10492的人都发的什么东西，我知道他在玩梗，可这有什么意义？",
+          "imagepath": "res/default.json",
+          "imageindex": "story-pic1",
+          "voicepath": "res/default.json",
+          "voiceindex": "story-v1",
+          "autotime": "8"
+        },
+        "2": {
+          "type": "text",
+          "text": "唔...",
+          "imagepath": "res/default.json",
+          "imageindex": "story-pic2",
+          "voicepath": "res/default.json",
+          "voiceindex": "story-v2",
+          "autotime": "3"
+        },
+        "3": {
+          "type": "text",
+          "text": "（吃力地阅读着屏幕上的文字）《FastGAL》是由seachstars自主研发的一款全新关闭世界galgame引擎。引擎发生在一个被称作「PySide」的幻想框架，在这里，被包管理器选中的文件将被授予「QtWidgets」，导引GUI之力。你将扮演一位名为「不会编程的人」的铸币角色，在自由的开发中邂逅功能各异、命名独特的JSON们，和他们一起击败scratch，找回失散的renpy——同时，逐步发掘「c++ qt除了语法根本就不长c++样了」的真相。",
+          "imagepath": "res/default.json",
+          "imageindex": "story-pic2",
+          "voicepath": "res/default.json",
+          "voiceindex": "story-v3",
+          "autotime": "15"
+        },
+        "4": {
+          "type": "text",
+          "text": "啊啊啊啊这都是什么玩意儿啊！",
+          "imagepath": "res/default.json",
+          "imageindex": "story-pic3",
+          "voicepath": "res/default.json",
+          "voiceindex": "story-v4",
+          "autotime": "4.5"
+        },
+        "bgmpath": "res/default.json",
+        "bgmindex": "story-cp1-bgm"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "FastGALRunner.py": {
+    "ConfigNotExistsErrorDialogText": "config.json不存在！请确保您已为该项目编写config（若使用FastGALEditor，此文件将自动生成）",
+    "ResourcesNotExistsErrorDialogText": "res文件夹不存在或为空！请确保你已把资源文件放入其中！",
+    "ScriptsNotExistsErrorDialogText": "scripts文件夹不存在或为空！请确保你已把脚本文件放入其中！",
+    "ConfigNotFullErrorDialogText": "config.json的内容不完整或出现错误！"
+  }
+}
