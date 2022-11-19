@@ -11,7 +11,7 @@ from PySide6 import QtCore, QtWidgets, QtGui, QtMultimediaWidgets, QtMultimedia
 syslang = locale.getdefaultlocale()[0]
 log.logINFO("your system default language is " + syslang)
 
-# 加载本地化文件
+# 加载国际化文件
 i18n_file = open("i18n/" + syslang + ".json", "r")
 i18n_file_r = i18n_file.read()
 i18n_file.close()

@@ -2,7 +2,7 @@
 FastGAL的运行器，用于运行使用FastGAL Editor（暂未开发）编写的Galgame
 
 ## 目录结构
-- i18n - 本地化json文件存放位置
+- i18n - 国际化json文件存放位置
 - res - 游戏资源存放位置（如视频 图片等 通过转换成base64的方式存储在json里）
 - scripts - 存放游戏内容json的文件夹 现版本只支持一个game.json
 - logs - Runner运行日志
